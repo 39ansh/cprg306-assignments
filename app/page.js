@@ -18,6 +18,9 @@ export default function () {
         <div className="ml-20 hover:underline text-lg">
         <Link href="./week-5">Week-5</Link>
         </div>
+        <div className="ml-20 hover:underline text-lg">
+        <Link href="./week-6">Week-6</Link>
+        </div>
       </div>
     </main> 
   )
