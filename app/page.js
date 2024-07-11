@@ -28,7 +28,7 @@ export default function () {
         <Link href="./week-8">Week-8</Link>
         </div>
         <div className="ml-20 hover:underline text-lg">
-        <Link href="./week-9\shopping-list">Week-9</Link>
+        <Link href="./week-9">Week-9</Link>
         </div>
       </div>
     </main> 
